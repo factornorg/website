@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 552">
+  <defs>
+    <linearGradient id="fn-diag" gradientUnits="userSpaceOnUse" x1="29.8" y1="169.7" x2="593.6" y2="320.8">
+      <stop offset="0" stop-color="#2259F2"/>
+      <stop offset=".333" stop-color="#2967FC"/>
+      <stop offset=".667" stop-color="#3D85FF"/>
+      <stop offset="1" stop-color="#5EB2FC"/>
+    </linearGradient>
+    <linearGradient id="fn-right" gradientUnits="userSpaceOnUse" x1="592" y1="50.9" x2="481.3" y2="355.1">
+      <stop offset="0" stop-color="#7ACAFE"/>
+      <stop offset=".333" stop-color="#5DAEFE"/>
+      <stop offset=".667" stop-color="#4695FE"/>
+      <stop offset="1" stop-color="#377FFE"/>
+    </linearGradient>
+    <linearGradient id="fn-dark" gradientUnits="userSpaceOnUse" x1="28.6" y1="132.3" x2="122.7" y2="483.3">
+      <stop offset="0" stop-color="#0327BB"/>
+      <stop offset=".333" stop-color="#0329C0"/>
+      <stop offset=".667" stop-color="#0227BE"/>
+      <stop offset="1" stop-color="#0023B6"/>
+    </linearGradient>
+    <linearGradient id="fn-foot" gradientUnits="userSpaceOnUse" x1="271.8" y1="427.2" x2="24.5" y2="448.8">
+      <stop offset="0" stop-color="#3172FF"/>
+      <stop offset=".333" stop-color="#2561FC"/>
+      <stop offset=".667" stop-color="#1D56F4"/>
+      <stop offset="1" stop-color="#1950E9"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#fn-right)" d="M473 318L476 124.6A4 4 0 0 1 477.1 121.9L557.9 39.1A9 9 0 0 1 566.5 36.7L572.7 38.3A9 9 0 0 1 579.5 47L579.5 402Q517 373 469 328Z"/>
+  <path fill="url(#fn-diag)" d="M23 144L21.4 136.4A12 12 0 0 1 24.6 125.4L115.8 34.2A50 50 0 0 1 186.4 34L472.8 317.8A4 4 0 0 0 473.3 318.2Q517 365.5 576 392L578.5 403.7A9 9 0 0 1 576 412L510.7 477.3A28 28 0 0 1 471.2 477.3L136.6 144.8A18 18 0 0 0 124.9 139.6Q83 113 25 134Z"/>
+  <path fill="url(#fn-foot)" d="M23 517L127 412L131 412L222.1 325.7A7 7 0 0 1 231.8 325.8L271.8 365.8A10 10 0 0 1 271.7 380.1L118.3 528.6A12 12 0 0 1 109.9 532L36.2 532A16.2 16.2 0 0 1 20 515.8L20 514Z"/>
+  <path fill="url(#fn-dark)" d="M20 140Q22 131 28 129Q83 108 130 143L131.4 144.4A2 2 0 0 1 132 145.8L131.5 411.3A3 3 0 0 1 131.2 412.6L130 415L26 520Q22 523 20 516Z"/>
+</svg>

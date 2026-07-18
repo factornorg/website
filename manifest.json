@@ -1,0 +1,21 @@
+{
+  "short_name": "Factorn",
+  "name": "Factorn",
+  "description": "Estúdio de desenvolvimento de software em Luanda, Angola.",
+  "icons": [
+    {
+      "src": "factorn.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "lang": "pt-AO",
+  "dir": "ltr",
+  "theme_color": "#020817",
+  "background_color": "#020817",
+  "categories": ["business", "productivity"]
+}

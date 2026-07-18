@@ -1,0 +1,12 @@
+{
+  "pages": [
+    {
+      "path": "/",
+      "prerender": {
+        "enabled": true
+      }
+    }
+  ],
+  "host": "https://factornorg.github.io/website",
+  "lastBuilt": "2026-07-18T22:04:44.051Z"
+}
