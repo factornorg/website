@@ -1,0 +1,12 @@
+{
+  "pages": [
+    {
+      "path": "/",
+      "prerender": {
+        "enabled": true
+      }
+    }
+  ],
+  "host": "https://factorn.ao",
+  "lastBuilt": "2026-08-10T20:16:39.648Z"
+}
